@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b98c831.chunk.css",
-    "main.js": "/static/js/main.0c2def36.chunk.js",
-    "main.js.map": "/static/js/main.0c2def36.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90e1c046.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90e1c046.js.map",
-    "static/js/2.c5f9045c.chunk.js": "/static/js/2.c5f9045c.chunk.js",
-    "static/js/2.c5f9045c.chunk.js.map": "/static/js/2.c5f9045c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2b98c831.chunk.css.map": "/static/css/main.2b98c831.chunk.css.map",
-    "static/js/2.c5f9045c.chunk.js.LICENSE.txt": "/static/js/2.c5f9045c.chunk.js.LICENSE.txt"
+    "main.css": "/Twitter-clone-2021/static/css/main.2b98c831.chunk.css",
+    "main.js": "/Twitter-clone-2021/static/js/main.1b118a15.chunk.js",
+    "main.js.map": "/Twitter-clone-2021/static/js/main.1b118a15.chunk.js.map",
+    "runtime-main.js": "/Twitter-clone-2021/static/js/runtime-main.9048bac9.js",
+    "runtime-main.js.map": "/Twitter-clone-2021/static/js/runtime-main.9048bac9.js.map",
+    "static/js/2.59bf8bbb.chunk.js": "/Twitter-clone-2021/static/js/2.59bf8bbb.chunk.js",
+    "static/js/2.59bf8bbb.chunk.js.map": "/Twitter-clone-2021/static/js/2.59bf8bbb.chunk.js.map",
+    "index.html": "/Twitter-clone-2021/index.html",
+    "static/css/main.2b98c831.chunk.css.map": "/Twitter-clone-2021/static/css/main.2b98c831.chunk.css.map",
+    "static/js/2.59bf8bbb.chunk.js.LICENSE.txt": "/Twitter-clone-2021/static/js/2.59bf8bbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90e1c046.js",
-    "static/js/2.c5f9045c.chunk.js",
+    "static/js/runtime-main.9048bac9.js",
+    "static/js/2.59bf8bbb.chunk.js",
     "static/css/main.2b98c831.chunk.css",
-    "static/js/main.0c2def36.chunk.js"
+    "static/js/main.1b118a15.chunk.js"
   ]
 }
